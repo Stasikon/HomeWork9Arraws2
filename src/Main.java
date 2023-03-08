@@ -8,7 +8,7 @@ public class Main {
 
     }
     public static void task1() {
-        System.out.println("Задание 1");
+        System.out.println("Задание 1 ");
         int [] arr = generateRandomArray();
         for (int i = 0; i < arr.length; i++) {
             System.out.println("Сумма трат за месяц составила "+arr[i]+" рублей");
